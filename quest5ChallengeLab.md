@@ -2,6 +2,7 @@
 ## `Lab Link` - [Click Here](https://www.cloudskillsboost.google/focuses/10258?parent=catalog)
 
 ### Simply copy the following code and paste it into your `cloud shell terminal`.
+Kindly add values to the variables with the values in your codelab before running the code.
 
 ```cmd
 export INSTANCE_NAME=
